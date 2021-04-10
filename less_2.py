@@ -1,4 +1,4 @@
-'''i = 5
+i = 5
 while i < 15:
   print(f'i: {i}')
   i +=2
@@ -75,7 +75,7 @@ c = ''
 for i in range(1,len(a)+1,1):
   c += a[-i]
 print(c)
-'''
+
 a = int(input())
 d = int(input())
 n = int(input())
